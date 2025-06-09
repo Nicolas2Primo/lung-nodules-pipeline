@@ -1,0 +1,4 @@
+pylidc==0.2.2
+numpy<1.24
+pandas==2.2.2
+tqdm==4.66.4
