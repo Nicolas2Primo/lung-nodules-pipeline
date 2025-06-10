@@ -16,7 +16,7 @@ except ImportError:
 # --- Configurações do Teste ---
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 # Troque o UID para testar diferentes exames
-SERIES_UID_TO_TEST = "1.3.6.1.4.1.14519.5.2.1.6279.6001.129007566048223160327836686225"
+SERIES_UID_TO_TEST = "1.3.6.1.4.1.14519.5.2.1.6279.6001.195913706607582347421429908613"
 
 def interactive_volume_viewer(image_array, mask_array=None, title_prefix=""):
     """
